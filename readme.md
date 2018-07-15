@@ -8,7 +8,7 @@ here at https://laravel.com/docs/5.6#installation.
 From what I've read from the installation page of Laravel you can setup everything on Mac and
 Linux.
 Not sure if there's a way to do it on Windows, but you could look into setting up a virtual 
-machine such as Virtualbox or VMWare. For example, I'm using a Debian 9 VM on Virtualbox.
+machine such as Virtualbox or VMWare. For example, I'm using a Debian 9 VM on Virtualbox to host the website for development.
 
 Once you download/clone the project onto your computer you can start the local web server by
 entering "php artisan start" in the directory it was copied into.
